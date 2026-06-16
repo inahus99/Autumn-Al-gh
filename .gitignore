@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+*.db
+*.sqlite
+coverage/
+.DS_Store
+Thumbs.db
+gh-signal.config.ts
